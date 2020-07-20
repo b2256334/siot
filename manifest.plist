@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/b2256334/mapapp/raw/master/carmap.ipa</string>
+					<string>https://github.com/b2256334/siot/raw/master/siot.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/b2256334/mapapp/raw/master/57x57.png</string>
+					<string>https://github.com/b2256334/siot/raw/master/57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/b2256334/mapapp/raw/master/512x512.png</string>
+					<string>https://github.com/b2256334/siot/raw/master/512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hgps.iphone</string>
+				<string>com.ared.siot</string>
 				<key>bundle-version</key>
-				<string>2.2.6</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>carmap</string>
+				<string>siot</string>
 			</dict>
 		</dict>
 	</array>
