@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/b2256334/siot/raw/master/siot.ipa</string>
+					<string>https://github.com/b2256334/siot/raw/master/ciot.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ared.siot</string>
+				<string>com.ared.ciot</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>siot</string>
+				<string>ciot</string>
 			</dict>
 		</dict>
 	</array>
